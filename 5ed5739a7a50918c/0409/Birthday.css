@@ -232,14 +232,14 @@ footer {
 }
 
 #pageCloud {
-	background-image: url("https://i.loli.net/2020/06/10/g5634XvV1ZPLaQf.jpg");
+	background-image: url("https://pan.join20.me/website/cloud.jpg");
 }
 /* #pageCloud {
 	background-image: url("images/cloud.jpg");
 } */
 
 #pageDandalion {
-	background-image: url("https://i.loli.net/2020/06/10/7qlDbGvkz64LxBe.jpg");
+	background-image: url("https://pan.join20.me/website/dandelion.jpg");
 }
 
 #pageDandalion > p {
@@ -250,7 +250,7 @@ footer {
 	font-size: 4vmin;
 }
 #pageDawn {
-	background-image: url("https://i.loli.net/2020/06/10/4xQGvUlSZHXaFCs.jpg");
+	background-image: url("https://pan.join20.me/website/dawn.jpg");
 }
 
 #pageDawn > p {
@@ -261,7 +261,7 @@ footer {
 }
 #pageRain {
 	
-	background-image: url("https://i.loli.net/2020/06/10/agv4JkW1RwINDOf.jpg");
+	background-image: url("https://pan.join20.me/website/rain.jpg");
 }
 #pageRain > p {
 	width: 50%;
@@ -271,7 +271,7 @@ footer {
 }
 #pageRiver {
 	
-	background-image: url("https://i.loli.net/2020/06/10/gvnbpS3ywJu6VZO.jpg");
+	background-image: url("https://pan.join20.me/website/snow.jpg");
 }
 #pageRiver > p {
 	position: absolute;
@@ -280,5 +280,5 @@ footer {
 }
 #pageSnow {
 	
-	background-image: url("https://i.loli.net/2020/06/10/TA6bdsnUHceZ4XQ.jpg");
+	background-image: url("https://pan.join20.me/website/river.jpg");
 }
