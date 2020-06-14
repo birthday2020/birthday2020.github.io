@@ -233,14 +233,14 @@ footer {
 }
 
 #pageCloud {
-	background-image: url("https://pan.join20.me/website2/cloud.jpg");
+	background-image: url("https://pan.join20.me/website3/cloud.jpg");
 }
 /* #pageCloud {
 	background-image: url("images/cloud.jpg");
 } */
 
 #pageDandalion {
-	background-image: url("https://pan.join20.me/website2/dandelion.jpg");
+	background-image: url("https://pan.join20.me/website3/dandelion.jpg");
 }
 
 #pageDandalion > p {
@@ -251,7 +251,7 @@ footer {
 	/* font-size: 4vmin; */
 }
 #pageDawn {
-	background-image: url("https://pan.join20.me/website2/dawn.jpg");
+	background-image: url("https://pan.join20.me/website3/dawn.jpg");
 }
 
 #pageDawn > p {
@@ -262,7 +262,7 @@ footer {
 }
 #pageRain {
 	
-	background-image: url("https://pan.join20.me/website2/rain.jpg");
+	background-image: url("https://pan.join20.me/website3/rain.jpg");
 }
 #pageRain > p {
 	width: 50%;
@@ -274,7 +274,7 @@ footer {
 }
 #pageRiver {
 	
-	background-image: url("https://pan.join20.me/website2/river.jpg");
+	background-image: url("https://pan.join20.me/website3/river.jpg");
 }
 #pageRiver > p {
 	position: absolute;
@@ -285,5 +285,5 @@ footer {
 }
 #pageSnow {
 	
-	background-image: url("https://pan.join20.me/website2/snow.jpg");
+	background-image: url("https://pan.join20.me/website3/snow.jpg");
 }
